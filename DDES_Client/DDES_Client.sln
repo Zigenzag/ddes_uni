@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DDES_Client", "DDES_Client.csproj", "{D49B89A4-5D8F-4787-9619-B8730FC6F3D0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DDES_Server", "..\DDES_Server\DDES_Server.csproj", "{8824BCA6-1716-443C-B358-1CAD83D59F85}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D3FBAC1D-0746-4936-8879-3B75ADDCE2CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D49B89A4-5D8F-4787-9619-B8730FC6F3D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D49B89A4-5D8F-4787-9619-B8730FC6F3D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D49B89A4-5D8F-4787-9619-B8730FC6F3D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D49B89A4-5D8F-4787-9619-B8730FC6F3D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8824BCA6-1716-443C-B358-1CAD83D59F85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8824BCA6-1716-443C-B358-1CAD83D59F85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8824BCA6-1716-443C-B358-1CAD83D59F85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8824BCA6-1716-443C-B358-1CAD83D59F85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {315DF2E2-9A46-49F4-9C76-53D8A43F62D6}
+	EndGlobalSection
+EndGlobal
